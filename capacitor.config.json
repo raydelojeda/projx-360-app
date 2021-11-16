@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Projx360App",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Projx360App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b031e5f8"
+}
